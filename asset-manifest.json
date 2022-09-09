@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DimashIITU/pizza.github.io.git/static/css/main.10041236.css",
-    "main.js": "/DimashIITU/pizza.github.io.git/static/js/main.0b7c840f.js",
-    "Cart.js": "/DimashIITU/pizza.github.io.git/static/js/Cart.f778f350.chunk.js",
-    "FullPizza.js": "/DimashIITU/pizza.github.io.git/static/js/FullPizza.68fea09c.chunk.js",
-    "static/js/787.3a33840f.chunk.js": "/DimashIITU/pizza.github.io.git/static/js/787.3a33840f.chunk.js",
-    "static/media/empty-cart.png": "/DimashIITU/pizza.github.io.git/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/pizza-logo.svg": "/DimashIITU/pizza.github.io.git/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
-    "index.html": "/DimashIITU/pizza.github.io.git/index.html",
-    "main.10041236.css.map": "/DimashIITU/pizza.github.io.git/static/css/main.10041236.css.map",
-    "main.0b7c840f.js.map": "/DimashIITU/pizza.github.io.git/static/js/main.0b7c840f.js.map",
-    "Cart.f778f350.chunk.js.map": "/DimashIITU/pizza.github.io.git/static/js/Cart.f778f350.chunk.js.map",
-    "FullPizza.68fea09c.chunk.js.map": "/DimashIITU/pizza.github.io.git/static/js/FullPizza.68fea09c.chunk.js.map",
-    "787.3a33840f.chunk.js.map": "/DimashIITU/pizza.github.io.git/static/js/787.3a33840f.chunk.js.map"
+    "main.css": "/DimashIITU/pizza/static/css/main.10041236.css",
+    "main.js": "/DimashIITU/pizza/static/js/main.c9ef2838.js",
+    "Cart.js": "/DimashIITU/pizza/static/js/Cart.f778f350.chunk.js",
+    "FullPizza.js": "/DimashIITU/pizza/static/js/FullPizza.68fea09c.chunk.js",
+    "static/js/787.3a33840f.chunk.js": "/DimashIITU/pizza/static/js/787.3a33840f.chunk.js",
+    "static/media/empty-cart.png": "/DimashIITU/pizza/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/DimashIITU/pizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/DimashIITU/pizza/index.html",
+    "main.10041236.css.map": "/DimashIITU/pizza/static/css/main.10041236.css.map",
+    "main.c9ef2838.js.map": "/DimashIITU/pizza/static/js/main.c9ef2838.js.map",
+    "Cart.f778f350.chunk.js.map": "/DimashIITU/pizza/static/js/Cart.f778f350.chunk.js.map",
+    "FullPizza.68fea09c.chunk.js.map": "/DimashIITU/pizza/static/js/FullPizza.68fea09c.chunk.js.map",
+    "787.3a33840f.chunk.js.map": "/DimashIITU/pizza/static/js/787.3a33840f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10041236.css",
-    "static/js/main.0b7c840f.js"
+    "static/js/main.c9ef2838.js"
   ]
 }
